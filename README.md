@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/a-best-practice-for-designing-interfaces-in-net-c-2c6ebdb4f1c1?sk=1f07b674adf763b7567d652ddd9f4a43" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/a-best-practice-for-designing-interfaces-in-net-c" />
 
 # A Best Practice for Designing Interfaces in .NET C#
 ### Is it enough to define IMyInterface<T>? do I need IMyInterface as well?
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*-1VD0SANNsqpwH6r2xOafg.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_c3f508d3fc2e4ceab04b2f32ce944684~mv2.png">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/a-best-practice-for-designing-interfaces-in-net-c-2c6ebdb4f1c1?sk=1f07b674adf763b7567d652ddd9f4a43
+[Article]: https://www.developmentsimplyput.com/post/a-best-practice-for-designing-interfaces-in-net-c
